@@ -1,11 +1,12 @@
 <template>
   <section>
-    Dashboard
+    {{ $router.options }}
   </section>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 

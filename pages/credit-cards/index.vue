@@ -1,11 +1,12 @@
 <template>
   <section>
-    Dashboard
+    CARTÕES DE CRÉDITO
   </section>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 

@@ -1,11 +1,12 @@
 <template>
   <section>
-    Dashboard
+    PERFIL
   </section>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 

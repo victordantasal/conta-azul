@@ -1,11 +1,12 @@
 <template>
   <section>
-    Dashboard
+    GASTOS
   </section>
 </template>
 
 <script>
 export default {
+
 }
 </script>
 
