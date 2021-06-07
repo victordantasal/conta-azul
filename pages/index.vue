@@ -1,11 +1,11 @@
 <template>
-  <div class="container">
+  <div :class="$style.container">
     <div>
       <Logo />
-      <h1 class="title">
+      <h1 :class="$style.title">
         conta-azul
       </h1>
-      <div class="links">
+      <div :class="$style.links">
         <a
           href="https://nuxtjs.org/"
           target="_blank"
@@ -31,7 +31,7 @@
 export default {}
 </script>
 
-<style>
+<style module>
 .container {
   margin: 0 auto;
   min-height: 100vh;
